@@ -1,0 +1,13 @@
+[package]
+name = "bigint-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Arbitrary precision integer arithmetic with Karatsuba multiplication, modular exponentiation, and Miller-Rabin primality testing"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/bigint-rs"
+keywords = ["bigint", "arbitrary-precision", "karatsuba", "primality", "math"]
+categories = ["mathematics", "algorithms", "data-structures"]
+readme = "README.md"
+
+[dependencies]
